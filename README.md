@@ -1,6 +1,7 @@
+<img src="https://media.licdn.com/dms/image/D4E16AQHSGtDPnfvjeQ/profile-displaybackgroundimage-shrink_350_1400/0/1682017737675?e=1687996800&v=beta&t=YKBObyLEynO2p_hMpaY6gzSPB6UY6MIa6z1V9LW7Hog" alt="background" />
 <h1 align="center">Hi 👋, I'm Yuting Sha</h1>
 <h3 align="center">A passionate data analyst</h3>
-<img src="https://media.licdn.com/dms/image/D4E16AQHSGtDPnfvjeQ/profile-displaybackgroundimage-shrink_350_1400/0/1682017737675?e=1687996800&v=beta&t=YKBObyLEynO2p_hMpaY6gzSPB6UY6MIa6z1V9LW7Hog" alt="background" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marinayutings&label=Profile%20views&color=0e75b6&style=flat" alt="marinayutings" /> </p>
 
 - 🔭 I’m currently working on [Backpropagation](https://github.com/MarinaYutingS/Backpropagation)
