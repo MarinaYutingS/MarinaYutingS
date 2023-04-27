@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **marinasyt191231@gmail.com**
 
-- ⚡ Fun fact **Computer is binary with 0 and 1, human is quatary with A, T, G, C. We created computer, who created us? **
+- ⚡ Fun fact **Computer is binary with 0 and 1, human is quatary with A, T, G, C. We created computer, who created us?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
